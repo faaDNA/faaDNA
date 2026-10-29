@@ -11,25 +11,15 @@ Recent Information Systems graduate with hands-on experience building full-stack
 
 ---
 
-## 🛠️ Tech Stack
+## 💡 Technologies and Expertise
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=js,ts,kotlin,html,css" alt="JavaScript, TypeScript, Kotlin, HTML, CSS" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,vue,nextjs,tailwind" alt="React, Vue.js, Next.js, Tailwind CSS" />
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,supabase,firebase" alt="Node.js, Express, PostgreSQL, MySQL, Supabase, Firebase" />
-
-**Tools & Deployment**
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,nginx,linux" alt="Git, GitHub, Postman, Nginx, Linux/VPS" />
-
-`REST API` · `JWT` · `RBAC` · `PM2` · `VPS Deployment`
+| Category | Technologies |
+| :-: | :-: |
+| Frontend | ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript) ![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript) ![React.js](https://img.shields.io/badge/react.js-black?style=for-the-badge&logo=react) ![Vue.js](https://img.shields.io/badge/vue.js-black?style=for-the-badge&logo=vuedotjs) ![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=nextdotjs) ![Tailwind CSS](https://img.shields.io/badge/tailwind-css-black?style=for-the-badge&logo=tailwindcss) ![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css) |
+| Backend | ![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=nodedotjs) ![Express.js](https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express) |
+| Database & Cloud | ![PostgreSQL](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql) ![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql) ![Supabase](https://img.shields.io/badge/supabase-black?style=for-the-badge&logo=supabase) ![Firebase](https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=firebase) |
+| Mobile | ![Kotlin](https://img.shields.io/badge/kotlin-black?style=for-the-badge&logo=kotlin) ![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk) ![Android](https://img.shields.io/badge/android-black?style=for-the-badge&logo=android) |
+| Tools & Deployment | ![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git) ![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github) ![Postman](https://img.shields.io/badge/postman-black?style=for-the-badge&logo=postman) ![Nginx](https://img.shields.io/badge/nginx-black?style=for-the-badge&logo=nginx) ![PM2](https://img.shields.io/badge/pm2-black?style=for-the-badge&logo=pm2) ![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux) |
 
 ---
 
