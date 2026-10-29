@@ -36,6 +36,13 @@ Recent Information Systems graduate with hands-on experience building full-stack
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faaDNA&show_icons=true&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faaDNA&layout=compact&hide_border=true)
+<table>
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=faaDNA&show_icons=true&rank_icon=github&theme=github_dark&hide_border=true" alt="GitHub Stats" height="180" />
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faaDNA&layout=pie&theme=github_dark&hide_border=true" alt="Top Languages" height="180" />
+    </td>
+  </tr>
+</table>
