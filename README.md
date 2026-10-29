@@ -4,10 +4,11 @@
 
 Recent Information Systems graduate with hands-on experience building full-stack web applications — from designing REST APIs and database schemas to deploying on a production VPS.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/daffaadna)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:daffa.n.a184@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://portofolio-daffa-naufal-abdillah.vercel.app)
-[![Location](https://img.shields.io/badge/Location-Depok%2C%20Indonesia-8B5CF6?logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Depok,Indonesia)
+<p>
+  <a href="https://linkedin.com/in/daffaadna"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:daffa.n.a184@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://portofolio-daffa-naufal-abdillah.vercel.app"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+</p>
 
 ---
 
